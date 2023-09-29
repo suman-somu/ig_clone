@@ -1,6 +1,7 @@
 # ig_clone
 A clone of Instagram. 
-Features - posts feed,new post, search accounts, follow/unfollow accounts, login and signup for new account. 
+Features - posts feed,new post, search accounts, follow/unfollow accounts, login and signup for new account.
+<br><br>
 Tech Used: 
 Frontend app - Flutter
 Backend - NodeJS
